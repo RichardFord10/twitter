@@ -61,8 +61,8 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/twitter-bot.git
-cd twitter-bot
+git clone https://github.com/RichardFord10/twitter.git
+cd twitter
 
 2. Create a Virtual Environment
 
